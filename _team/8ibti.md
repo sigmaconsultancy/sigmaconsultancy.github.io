@@ -1,6 +1,6 @@
 ---
-title: 'Afroza Jannat Suchana'
-image: '/images/team/suchana.jpg'
+title: 'Ibtida Chowdhury'
+image: '/images/team/ibti.jpg'
 jobtitle: 'XXXXXXX'
 email: 'sage@test.com'
 linkedinurl: ''
